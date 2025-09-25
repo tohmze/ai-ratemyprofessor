@@ -36,5 +36,4 @@ I created a **user-friendly chat interface** that allows students and professors
 - Add **typing indicators** for AI responses.  
 - Implement **scroll-to-bottom** for long conversations.  
 - Enhance UI with **animated message bubbles**.  
-- Integrate with a real backend AI service for full functionality.  
 
